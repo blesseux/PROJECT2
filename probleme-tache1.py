@@ -6,7 +6,7 @@ print(result)
 
 
 x = {}
-x["id-project"] = "PROJECT1"
+x["id-project"] = "PROJECT2"
 x["id-tache"] = "1"
 x["result"]= result
 myparam = {"data" : json.dumps(x)}
